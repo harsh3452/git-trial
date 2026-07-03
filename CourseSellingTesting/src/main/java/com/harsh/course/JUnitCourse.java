@@ -7,3 +7,4 @@ public class JUnitCourse implements Course{
         return true;
     }
 }
+//hello bodoy
